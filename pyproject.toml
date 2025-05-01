@@ -26,6 +26,7 @@ dependencies = [
     "rich",
     "tqdm",
     "PyYAML",
+    "vortex==1.0.0",
 ]
 
 [tool.black]
